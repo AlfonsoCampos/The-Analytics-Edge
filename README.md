@@ -1,2 +1,2 @@
 # The-Analytics-Edge
-Repository for EdX's The Analytics Edge Course
+Personal work on EdX's The Analytics Edge Course
